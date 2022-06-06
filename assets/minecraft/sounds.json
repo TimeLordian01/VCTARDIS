@@ -1,0 +1,62 @@
+{
+    "tardis_door_close": {
+        "sounds": [
+            "tardis/door_close"
+        ]
+    },
+    "tardis_door_lock": {
+        "sounds": [
+            "tardis/door_lock"
+        ]
+    },
+    "tardis_door_open": {
+        "sounds": [
+            "tardis/door_open"
+        ]
+    },
+    "tardis_door_unlock": {
+        "sounds": [
+            "tardis/door_unlock"
+        ]
+    },
+    "tardis_rotor_end": {
+        "sounds": [
+            "tardis/rotor_end"
+        ]
+    },
+    "tardis_rotor_start": {
+        "sounds": [
+            "tardis/rotor_start"
+        ]
+    },
+    "tardis_rotor_tick": {
+        "sounds": [
+            "tardis/rotor_tick"
+        ]
+    },
+    "tardis_fly_loop": {
+        "sounds": [
+            "tardis/tardis_fly_loop"
+        ]
+    },
+    "tardis_land": {
+        "sounds": [
+            "tardis/tardis_land"
+        ]
+    },
+    "tardis_takeoff": {
+        "sounds": [
+            "tardis/tardis_takeoff"
+        ]
+    },
+    "tardis_cloister_bell": {
+        "sounds": [
+            "tardis/tardis_cloister_bell"
+        ]
+    },
+    "tardis_theme": {
+        "sounds": [
+            "tardis/theme"
+        ]
+    }
+}

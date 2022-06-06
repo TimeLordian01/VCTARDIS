@@ -1,0 +1,15 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/slime_ball"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/jing_exterior/jing_exterior"},
+		{"predicate": {"custom_model_data":2}, "model": "item/jing_exterior/jing_exterior_right_door_open"},
+		{"predicate": {"custom_model_data":3}, "model": "item/jing_exterior/jing_exterior_both_doors_open"},
+		{"predicate": {"custom_model_data":4}, "model": "item/jing_exterior/jing_doors"},
+		{"predicate": {"custom_model_data":5}, "model": "item/jing_exterior/jing_doors_right_door_open"},
+		{"predicate": {"custom_model_data":6}, "model": "item/jing_exterior/jing_doors_both_doors_open"}
+	]
+}
